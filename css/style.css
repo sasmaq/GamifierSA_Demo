@@ -42,7 +42,7 @@ a:hover {
 
 .background {
     width: 100%;
-    background-image: url('/assets/background.svg');
+    background-image: url('/GamifierSA_Demo/assets/background.svg');
     background-position: center;
     background-size: cover;
     height: 1686px;
